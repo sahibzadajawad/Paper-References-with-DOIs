@@ -3,21 +3,15 @@
 - Use of an unmanned aerial vehicle for monitoring and prediction of oilseed rape crop performance {DOI: 10.1371/journal.pone.0294184}
 - Advances in uav-based deep learning for cassava disease monitoring and detection: A comprehensive review of models, imaging techniques, and agricultural applications {DOI: 10.1016/j.atech.2025.101400}
 - Deep learning based plant disease detection for smart agriculture {DOI: 10.1109/GCWkshps45667.2019.9024439}
-- Towards paddy rice smart farming: a review on big data, machine learning, and rice production tasks {DOI: 10.1109/ACCESS.2021.3069449}
 - Development of a digital twin for smart farming: Irrigation management system for water saving {DOI: 10.1016/j.jclepro.2023.135920}
-- A digital twin for smart farming {DOI: 10.1109/GHTC46095.2019.9033075}
-- Closing the gap between actual and potential yield of rainfed wheat. the impacts of environment, management and cultivar {DOI: 10.1016/j.fcr.2009.11.016}
 - Enhanced wheat yield prediction through integrated climate and satellite data using advanced ai techniques {DOI: 10.1038/s41598-025-18093-4}
 - Sustainable and precision agriculture with the internet of everything (ioe) {DOI: 10.48550/arXiv.2404.06341}
 - Precision agriculture technologies positively contributing to ghg emissions mitigation, farm productivity and economics {DOI: 10.3390/su9081339}
 - Modeling yield response to crop management using convolutional neural networks {DOI: 10.1016/j.compag.2019.105197}
 - Low-weight and uav-based hyperspectral full-frame cameras for monitoring crops: Spectral comparison with portable spectroradiometer measurements {DOI: 10.1127/pfg/2015/0256}
 - Exploring the adoption of precision agricultural technologies: A cross regional study of eu farmers {DOI: 10.1016/j.landusepol.2018.10.004}
-- Determination of ultra-trace levels of mo in plants by inductively coupled plasma tandem mass spectrometry (icp-ms/ms) {DOI: 10.1016/j.microc.2017.04.037}
 - Greenhouse gas emissions from agricultural soils: Sources and mitigation potential {DOI: 10.1080/15427528.2013.845054}
 - Toward a better understanding of genotype× environment× management interactions—a global wheat initiative agronomic research strategy {DOI: 10.3389/fpls.2020.00828}
-- Evapotranspiration and crop coefficient for sprinkler-irrigated cotton crop in apodi plateau semiarid lands of brazil {DOI: 10.1016/j.agwat.2012.01.013}
-- Quantitative trait loci for yellow pigment concentration and individual carotenoid compounds in durum wheat {DOI: 10.1016/j.jcs.2011.07.002}
 - In-field detection of yellow rust in wheat on the ground canopy and uav scale {DOI: 10.3390/rs11212495}
 - Remote sensing as a data source to analyse regional implications of genetically modified plants in agriculture—oilseed rape (brassica napus) in northern germany {DOI: 10.1016/j.ecolind.2009.03.003}
 - Environmental impact assessment of agricultural production systems using the life cycle assessment methodology: I. theoretical concept of a lca method tailored to crop production {DOI: 10.1016/S1161-0301(03)00024-8}
@@ -32,9 +26,7 @@
 - Mitigating arable soil compaction: A review and analysis of available cost and benefit data {DOI: 10.1016/j.still.2014.09.011}
 - Cochrane handbook for systematic reviews of interventions {DOI: 10.1002/9781119536604}
 - Precision agriculture technologies: present adoption and future strategies {DOI: 10.1016/B978-0-443-18953-1.00011-8}
-- Determination of superior pistacia chinensis accession with high-quality seed oil and biodiesel production and revelation of lec1/wri1-mediated high oil accumulative mechanism for better developing woody biodiesel {DOI: 10.1186/s12870-023-04267-y}
 - Using deep transfer learning for image-based plant disease identification {DOI: 10.1016/j.compag.2020.105393}
-- Spatio-temporal patterns of winter wheat yield potential and yield gap during the past three decades in north china {DOI: 10.1016/j.fcr.2017.02.012}
 - Development of smart farming-a detailed study {DOI: 10.14419/ijet.v7i2.4.10042}
 - Machine learning approaches for crop yield prediction and nitrogen status estimation in precision agriculture: A review {DOI: 10.1016/j.compag.2018.05.012}
 - Digitalisation in agriculture: A scoping review of technologies in practice, challenges, and opportunities for smallholder farmers in sub-saharan africa {DOI: 10.1016/j.jafr.2024.101286}
@@ -53,15 +45,6 @@
 - Remotely sensed green area index for winter wheat crop monitoring: 10-year assessment at regional scale over a fragmented landscape {DOI: 10.1016/j.agrformet.2012.07.014}
 - Managing socio-ethical challenges in the development of smart farming: from a fragmented to a comprehensive approach for responsible research and innovation {DOI: 10.1007/s10806-017-9704-5}
 - Stimulating transitions towards sustainable farming systems {DOI: 10.1007/978-94-007-4503-2_19}
-- Assessment of the economic and environmental sustainability of variable rate technology (vrt) application in different wheat intensive european agricultural areas. a water energy food nexus approach {DOI: 10.1016/j.envsci.2020.08.019}
-- Integration of modis lai and vegetation index products with the csm–ceres–maize model for corn yield estimation {DOI: 10.1080/01431160903505310}
-- A novel mosaic method for uav-based hyperspectral images {DOI: 10.1109/IGARSS.2019.8900057}
-- 3d-resnet-bilstm model: A deep learning model for county-level soybean yield prediction with time-series sentinel-1, sentinel-2 imagery, and daymet data {DOI: 10.3390/rs15235551}
-- Uav-based multi-sensor data fusion and machine learning algorithm for yield prediction in wheat {DOI: 10.1007/s11119-022-09938-8}
-- Cotton yield estimation from uav-based plant height {DOI: 10.13031/trans.13067}
-- Alfalfa yield prediction using uav-based hyperspectral imagery and ensemble learning {DOI: 10.3390/rs12122028}
-- Dynamic wheat yield forecasts are improved by a hybrid approach using a biophysical model and machine learning technique {DOI: 10.1016/j.agrformet.2020.107922}
-- Optimized model for coordinated development of regional sustainable agriculture based on water–energy–land–carbon nexus system {DOI: 10.1016/j.enconman.2023.117261}
 - Precision farming at the nexus of agricultural production and the environment {DOI: 10.1146/annurev-resource-100518-093929}
 - A techno-economic analysis of digital agriculture services: an ecological approach toward green growth {DOI: 10.1007/s13762-021-03300-7}
 - Remote sensing for agriculture {DOI: 10.1007/978-3-030-66387-2_2}
@@ -70,22 +53,17 @@
 - Climate-smart agriculture, productivity and food security in india {DOI: 10.1177/2455133319862404}
 - Hyperspectral canopy sensing of paddy rice aboveground biomass at different growth stages {DOI: 10.1016/j.fcr.2013.09.023}
 - Remote estimation of rapeseed yield with unmanned aerial vehicle (uav) imaging and spectral mixture analysis {DOI: 10.1186/s13007-018-0338-z}
-- Soil acidification and the importance of liming agricultural soils with particular reference to the united kingdom {DOI: 10.1111/sum.12270}
 - Status quo of adoption of precision agriculture enabling technologies in swiss plant production {DOI: 10.1007/s11119-020-09723-5}
 - Prediction of cotton lint yield from phenology of crop indices using artificial neural networks {DOI: 10.1016/j.compag.2018.07.021}
-- The relationship between risk experience and risk response: a study of farmers and climate change {DOI: 10.1080/13669877.2016.1153506}
 - Mapping rapeseed planting areas using an automatic phenology-and pixel-based algorithm (appa) in google earth engine {DOI: 10.1016/j.cj.2022.04.013}
 - Deep learning system for paddy plant disease detection and classification {DOI: 10.1007/s10661-022-10656-x}
 - Systematic literature review: Implementation of artificial intelligence in precision agriculture {DOI: 10.1109/ICOIACT55506.2022.9971917}
 - Unmanned aircraft system (uas) technology and applications in agriculture {DOI: 10.3390/agronomy9100618}
 - Hyperspectral reflectance signatures and point clouds for precision agriculture by light weight uav imaging system {DOI: 10.5194/isprsannals-I-7-353-2012}
 - A uav platform based on a hyperspectral sensor for image capturing and on-board processing {DOI: 10.1109/ACCESS.2019.2913957}
-- Comparison of the performance of multi-source three-dimensional structural data in the application of monitoring maize lodging {DOI: 10.1016/j.compag.2023.107782}
 - Agricultural remote sensing big data: Management and applications {DOI: 10.1016/S2095-3119(17)61859-8}
 - Remote sensing with simulated unmanned aerial imagery for precision agriculture applications {DOI: 10.1109/JSTARS.2014.2317876}
 - Uav lidar metrics for monitoring crop height, biomass and nitrogen uptake: A case study on a winter wheat field trial {DOI: 10.1007/s41064-022-00228-6}
-- Rain regime and soil type affect the c and n dynamics in soil columns that are covered with mixed-species mulches {DOI: 10.1007/s11104-015-2501-x}
-- Machine learning enabled iot system for soil nutrients monitoring and crop recommendation {DOI: 10.1016/j.jafr.2023.100880}
 - Crop yield prediction in agriculture: A comprehensive review of machine learning and deep learning approaches, with insights for future research and sustainability {DOI: 10.1016/j.heliyon.2024.e40836}
 - A conceptual framework for guiding the participatory development of agricultural decision support systems {DOI: 10.1016/j.agsy.2010.08.007}
 - Improved early-stage crop classification using a novel fusion-based machine learning approach with sentinel-2a and landsat 8–9 data {DOI: 10.1007/s10661-025-14420-9}
@@ -97,22 +75,13 @@
 - National contributions to climate change due to historical emissions of carbon dioxide, methane, and nitrous oxide since 1850 {DOI: 10.1038/s41597-023-02041-1}
 - Impact of climate change on the phenology of winter oilseed rape (brassica napus l.) {DOI: 10.3390/agriculture14071049}
 - Deep learning in agriculture: A survey {DOI: 10.1016/j.compag.2018.02.016}
-- Attention embedded residual cnn for disease detection in tomato leaves {DOI: 10.1016/j.asoc.2019.105933}
 - Experience versus expectation: farmers' perceptions of smart farming technologies for cropping systems across europe {DOI: 10.1007/s11119-019-09678-4}
-- Experience versus expectation: farmers' perceptions of smart farming technologies for cropping systems across europe {DOI: 10.1007/s11119-019-09651-z}
-- A cnn-rnn framework for crop yield prediction {DOI: 10.3389/fpls.2019.01750}
-- A survey of the recent architectures of deep convolutional neural networks {DOI: 10.1007/s10462-020-09825-6}
 - Application of hyperspectral imaging to detect sclerotinia sclerotiorum on oilseed rape stems {DOI: 10.3390/s18010123}
-- Satellite instrumentation and technique for monitoring of seawater quality {DOI: 10.1007/978-3-031-08262-7_5}
-- Winter wheat yield response to climate variability in denmark {DOI: 10.1017/S0021859610000675}
-- Assessing impacts of integrating modis vegetation data in the weather research and forecasting (wrf) model coupled to two different canopy-resistance approaches {DOI: 10.1175/JAMC-D-13-0247.1}
-- Unlocking the impending role of automation in fruit production: An overview {DOI: 10.1007/s10341-025-01633-y}
 - Discriminating rapeseed varieties using computer vision and machine learning {DOI: 10.1016/j.eswa.2014.10.003}
 - The role of communication and co-operation in the adoption of precision farming {DOI: 10.1007/s11119-009-9150-0}
 - Smart farming prediction models for precision agriculture: a comprehensive survey {DOI: 10.1007/s10462-022-10266-6}
 - Spectral imaging in crop monitoring and disease diagnosis: A comprehensive review {DOI: 10.1079/cabireviews.2025.0012}
 - Airborne transport of herbicides from uav applications under varied operational and meteorological conditions {DOI: 10.1016/j.scitotenv.2026.181811}
-- A light-weight multi-spectral aerial imaging system for nitrogen crop monitoring {DOI: 10.1007/s11119-012-9262-9}
 - Deep learning {DOI: 10.1038/nature14539}
 - What promote farmers to adopt green agricultural fertilizers? evidence from 8 provinces in china {DOI: 10.1016/j.jclepro.2023.139123}
 - Variations in crop variables within wheat canopies and responses of canopy spectral characteristics and derived vegetation indices to different vertical leaf layers and spikes {DOI: 10.1016/j.rse.2015.08.021}
@@ -124,9 +93,7 @@
 - Abundance considerations for modeling yield of rapeseed at the flowering stage {DOI: 10.3389/fpls.2023.1188216}
 - Unmanned aerial vehicles (uavs)-based crop lodging susceptibility and seed yield assessment during different growth stages of rapeseed (brassica napus) {DOI: 10.1016/j.compag.2024.108980}
 - Machine learning in agriculture: A review {DOI: 10.3390/s18082674}
-- Digital twins' technology for smart agriculture {DOI: 10.1007/978-3-031-24861-0_146}
 - Enhanced efficiency nitrogen fertilizers for rice systems: Meta-analysis of yield and nitrogen uptake {DOI: 10.1016/j.fcr.2013.08.014}
-- Green innovativeness in farm enterprises: what makes farmers think green? {DOI: 10.1002/sd.1709}
 - Climate-smart agriculture for food security {DOI: 10.1038/nclimate2437}
 - Detection of sclerotinia stem rot on oilseed rape (brassica napus l.) based on laser-induced breakdown spectroscopy {DOI: 10.13031/trans.12206}
 - Advanced technologies for smart fertilizer management in agriculture: A review {DOI: 10.1109/ACCESS.2025.3594361}
@@ -134,14 +101,9 @@
 - Development and application experiments of a grain yield monitoring system {DOI: 10.1016/j.compag.2022.106851}
 - Remote estimation of leaf nitrogen concentration in winter oilseed rape across growth stages and seasons by correcting for the canopy structural effect {DOI: 10.1016/j.rse.2022.113348}
 - Estimating winter canola aboveground biomass from hyperspectral images using narrowband spectra-texture features and machine learning {DOI: 10.3390/plants13212978}
-- Effects of n management optimization practices on rice productivity and n loss: a meta-analysis {DOI: 10.3389/fpls.2025.1485144}
 - Improving crop production using an agro-deep learning framework in precision agriculture {DOI: 10.1186/s12859-024-05970-9}
-- A self-powered, real-time, nrf24l01 iot-based cloud-enabled service for smart agriculture decision-making system {DOI: 10.1007/s11277-021-09462-4}
 - Setting the record straight on precision agriculture adoption {DOI: 10.2134/agronj2018.12.0779}
 - Winter wheat yield potentials and yield gaps in the north china plain {DOI: 10.1016/j.fcr.2012.09.015}
-- From bim towards digital twin: Strategy and future development for smart asset management {DOI: 10.1007/978-3-030-27477-1_30}
-- Digital twin-driven smart manufacturing: Connotation, reference model, applications and research issues {DOI: 10.1016/j.rcim.2019.101837}
-- Perspectives for remote sensing with unmanned aerial vehicles in precision agriculture {DOI: 10.1016/j.tplants.2018.11.007}
 - Recent advances in sensing plant diseases for precision crop protection {DOI: 10.1007/s10658-011-9878-z}
 - Modeling genotype× environment× management interactions for a sustainable intensification under rainfed wheat cropping system in morocco {DOI: 10.1186/s40066-023-00428-2}
 - Tackling the environmental and climate footprint of food systems: How "transformative" is the eu's farm to fork strategy? {DOI: 10.1007/978-3-031-18268-6_10}
@@ -149,22 +111,13 @@
 - Soil carbon storage and stabilisation in andic soils: A review {DOI: 10.1016/j.catena.2014.04.008}
 - How methodological frameworks are being developed: evidence from a scoping review {DOI: 10.1186/s12874-020-01025-8}
 - Remote sensing and decision support system applications in precision agriculture: Challenges and possibilities {DOI: 10.1109/ACCESS.2024.3361234}
-- Enhancement of smart agriculture using internet of things {DOI: 10.1149/10701.7047ecst}
 - Environmental impacts of organic and conventional agricultural products–are the differences captured by life cycle assessment? {DOI: 10.1016/j.jenvman.2014.10.006}
 - Food and agriculture organization of the united nations (fao) {DOI: 10.1093/yiel/yvac040}
 - Unlocking the potential of precision agriculture for sustainable farming {DOI: 10.1007/s44279-024-00078-3}
-- Real-time semantic segmentation of crop and weed for precision agriculture robots leveraging background knowledge in cnns {DOI: 10.1109/ICRA.2018.8460962}
-- Comas: A cooperative multiagent architecture for spectrum sharing {DOI: 10.1155/2010/987691}
 - Tractor-based quadrilateral spectral reflectance measurements to detect biomass and total aerial nitrogen in winter wheat {DOI: 10.2134/agronj2009.0397}
-- Scientometric study of research in information retrieval in medical sciences {DOI: 10.47176/mjiri.36.65}
 - Using deep learning for image-based plant disease detection {DOI: 10.3389/fpls.2016.01419}
 - Evaluation of machine learning approaches for precision farming in smart agriculture system: A comprehensive review {DOI: 10.1109/ACCESS.2024.3390581}
-- Site-specific seeding for maize production using management zone maps delineated with multi-sensors data fusion scheme {DOI: 10.1016/j.still.2022.105377}
-- Quantifying leaf-scale variations in water absorption in lettuce from hyperspectral imagery: a laboratory study with implications for measuring leaf water content in the context of precision agriculture {DOI: 10.1007/s11119-018-9610-5}
-- Utilization of rapeseed-mustard genetic resources for brassica improvement: A retrospective approach {DOI: 10.1007/978-3-030-34694-2_1}
 - Updated and harmonised greenhouse gas emissions for crop inventories {DOI: 10.1007/s11367-014-0712-7}
-- Crop yield prediction with deep convolutional neural networks {DOI: 10.1016/j.compag.2019.104859}
-- Green leaf area index estimation in maize and soybean: Combining vegetation indices to achieve maximal sensitivity {DOI: 10.2134/agronj2012.0065}
 - Investigation of genetic diversity of different spring rapeseed (brassica napus l.) genotypes and yield prediction using machine learning models {DOI: 10.1007/s10722-024-01915-6}
 - Precision agriculture: Where do we stand? a review of the adoption of precision agriculture technologies on field crops farms in developed countries {DOI: 10.1007/s40003-021-00539-x}
 - Challenges and opportunities in smallholder agriculture digitization in south africa {DOI: 10.3389/fsufs.2025.1583224}
@@ -174,12 +127,10 @@
 - Gis and multi-criteria decision-making analysis assessment of land suitability for rapeseed farming in calcareous soils of semi-arid regions {DOI: 10.1016/j.ecolind.2019.04.051}
 - Navigating the future of agriculture: A comprehensive review of automatic all-terrain vehicles in precision farming {DOI: 10.1007/s40030-024-00816-2}
 - The prisma 2020 statement: an updated guideline for reporting systematic reviews {DOI: 10.1136/bmj.n71}
-- Fuzzy cognitive map based approach for predicting yield in cotton crop production as a basis for decision support system in precision agriculture application {DOI: 10.1016/j.asoc.2011.01.036}
 - A systematic literature review of the factors affecting the precision agriculture adoption process {DOI: 10.1007/s11119-019-09653-x}
 - A greener path for the eu common agricultural policy {DOI: 10.1126/science.aax3146}
 - Residues of currently used pesticides in soils and earthworms: A silent threat? {DOI: 10.1016/j.agee.2020.107167}
 - Biology, yield loss and control of sclerotinia stem rot of soybean {DOI: 10.1603/IPM11033}
-- Emerging policies and contradictions in the eu: A fair, healthy and environmentally friendly food system by 2030 {DOI: 10.7310/arfe.60.41}
 - Application of precision agriculture technologies in central europe-review {DOI: 10.1016/j.jafr.2024.101048}
 - From satellite to uav-based remote sensing: A review on precision agriculture {DOI: 10.1109/ACCESS.2023.3334567}
 - Drivers of precision agriculture technologies adoption: A literature review {DOI: 10.1016/j.protcy.2013.11.010}
@@ -198,18 +149,67 @@
 - Simulation of growth, development and yield of canola (brassica napus) in apsim {DOI: 10.1071/CP15267}
 - Sclerotinia sclerotiorum disease prediction: A review and potential applications in south africa {DOI: 10.17159/sajs.2018/20170155}
 - Automated pastures and the digital divide: How agricultural technologies are shaping labour and rural communities {DOI: 10.1016/j.jrurstud.2019.01.023}
-- Building an interoperable space for smart agriculture {DOI: 10.1016/j.dcan.2022.02.004}
-- Yield and plant height predictions of irrigated maize through unmanned aerial vehicle in north florida {DOI: 10.1016/j.compag.2023.108374}
 - Sensor-based monitoring of soil and crop health for enhancing input use efficiency {DOI: 10.1007/978-3-030-85728-8_7}
 - Smart agricultural knowledge discovery system using iot technology and fog computing {DOI: 10.1109/ICSSIT48917.2020.9214102}
-- A multi-scale feature extraction and fusion deep learning method for classification of wheat diseases {DOI: 10.3844/jcssp.2025.34.42}
-- Pollination services from field-scale agricultural diversification may be context-dependent {DOI: 10.1016/j.agee.2015.03.020}
 - Farm profits and adoption of precision agriculture {DOI: 10.22004/ag.econ.235716}
 - Crop production costs, profits, and ecosystem stewardship with precision agriculture {DOI: 10.1017/aae.2017.23}
-- On the doorstep of the information age: Recent adoption of precision agriculture {DOI: 10.2139/ssrn.2692052}
-- Big data on a farm—smart farming {DOI: 10.1007/978-3-319-62461-7_12}
-- Recent advances in crop disease detection using uav and deep learning techniques {DOI: 10.3390/rs15092450}
 - Predictive modelling and epidemiological forecasting of sclerotinia rot in brassica juncea under climatic variability in indian conditions {DOI: 10.3389/fpls.2025.1650230}
 - A novel plant disease diagnosis framework by integrating semi-supervised and ensemble learning {DOI: 10.1007/s41348-023-00803-y}
 - Performance of rapeseed and mustard: recent trends, prospects and constraints {DOI: 10.1007/978-81-322-3717-4_5}
 - Global metaanalysis of the nonlinear response of soil nitrous oxide (n2o) emissions to fertilizer nitrogen {DOI: 10.1073/pnas.1322434111}
+- Big data analytics in precision agriculture: An automated systematic literature review {DOI: 10.1016/j.compag.2025.111401}
+- Deep learning in farming: A systematic evidence-weighted review of applications, validation gaps, and emerging frontiers {DOI: 10.3390/bdcc10080273}
+- Smart agriculture for greenhouse gas mitigation: Integrating digital tools, engineering metrics, and policy instruments: A review {DOI: 10.1016/j.nexres.2026.101445}
+- Advancing digital and climate-smart agriculture for sustainable and resilient food systems: A systematic review and future research directions {DOI: 10.1016/j.inpa.2026.08.001}
+- Mitigation and adaptation strategies in climate-smart agriculture: A review for sustainable production {DOI: 10.1016/j.csag.2026.100097}
+- Allocation in field crop and livestock life cycle assessment {DOI: 10.1007/s11367-026-02618-z}
+- A qualitative synthesis of barriers to agriculture 4.0 adoption: evidence from a systematic literature review {DOI: 10.1007/s44279-026-00505-7}
+- A tertiary systematic literature review and experimental evaluation of deep learning models for plant disease detection {DOI: 10.1007/s11119-026-10398-7}
+- A systematic review of available multispectral uav image datasets for precision agriculture applications {DOI: 10.3390/rs18040659}
+- Integrating uav thermal imagery and in-situ data for high-resolution crop water stress–soil moisture dynamics over india's agricultural hotspot {DOI: 10.1080/01431161.2025.2593684}
+- Economic policy for agricultural voluntary carbon markets in the eu: structural weaknesses and reform options {DOI: 10.1007/s40888-026-00419-z}
+- Integrating iot and communication technologies for smart and precision irrigation systems toward sustainable water management {DOI: 10.1007/s43926-026-00314-w}
+- Uav-based crop pest and disease monitoring: A review of multi-source sensing and intelligent methods {DOI: 10.1016/j.compag.2026.111847}
+- Revolutionising crop modelling and resource management by integrating deep learning: A review {DOI: 10.1016/j.engappai.2026.114455}
+- The evolution of data-driven management zone delineation: A systematic review {DOI: 10.3390/s26103249}
+- Uav-satellite synergies for crop monitoring: current landscape, challenges, and future directions {DOI: 10.1016/j.isprsjprs.2026.06.038}
+- The role of digitalisation in supporting farmers and strategic policies for food security and sustainability in europe: A review {DOI: 10.1016/j.sftr.2026.101702}
+- Bringing cross-validation into the real world to evaluate transferability of satellite-based vegetation models {DOI: 10.1038/s41598-026-39866-w}
+- Optimizing nitrogen use in rapeseed systems: A global meta-analysis of yield gains and environmental trade-offs {DOI: 10.1016/j.resenv.2026.100322}
+- Digital innovations in climate-smart agriculture: A review of technologies for climate adaptation and resilience with implications for sub-saharan africa {DOI: 10.3389/fagro.2026.1902177}
+- Economic aspects of precision crop production: A systematic literature review {DOI: 10.3390/agriculture16070820}
+- Leveraging remote sensing technologies: A review of precision cropping challenges and research trend analysis {DOI: 10.1007/s12524-026-02475-1}
+- Influencing factors of farmers' adoption of digital agricultural technologies in china: A meta-analysis {DOI: 10.1016/j.jrurstud.2026.104272}
+- Framework to assess the sustainability impact of digital technological solutions in agriculture {DOI: 10.1007/s12063-026-00593-0}
+- Beyond data-driven: Integrating scientific knowledge and machine learning for crop prediction {DOI: 10.1016/j.eja.2026.128261}
+- Integrating subseasonal-to-seasonal forecasts into agricultural decision support systems: A critical review and research agenda {DOI: 10.1016/j.eng.2026.05.015}
+- Application of irrigation decision-making methods for smart irrigation systems: A review {DOI: 10.1002/ird.70098}
+- In-season crop yield prediction: State of the art and future research direction {DOI: 10.1016/j.jag.2026.105129}
+- Remote sensing through uavs for precision agriculture: Applications, technical foundations, current barriers, and future opportunities {DOI: 10.1016/j.atech.2026.102074}
+- Vision transformers in precision agriculture: A comprehensive survey {DOI: 10.1016/j.iswa.2025.200617}
+- Precision irrigation based on iot and energy management: Driving future sustainable water management in farming {DOI: 10.1016/j.rser.2026.117179}
+- Internet of things-enabled smart irrigation systems for precision water management: A systematic review {DOI: 10.1016/j.agwat.2026.110615}
+- A review of remote sensing-based crop yield estimation: machine learning techniques and environmental, algorithmic, and hardware limitations {DOI: 10.3389/fpls.2026.1742689}
+- Uav-based classification of crop phenological stages using deep learning {DOI: 10.3390/drones10080629}
+- Sentinel-2 for crop yield estimation: A systematic review {DOI: 10.1016/j.atech.2026.102405}
+- Environmental, economic, and social impacts of precision agricultural technology: Convergences and divergences between theory and practice {DOI: 10.1016/j.jrurstud.2026.104007}
+- Trends, advancements, and challenges in climate-smart agriculture: An umbrella review {DOI: 10.1016/j.jafr.2026.103088}
+- Digital twins in agriculture: A systematic literature review on modeling, semantics, and interoperability {DOI: 10.1016/j.atech.2026.102283}
+- Economics and adoption perspectives of site-specific weed management: A review {DOI: 10.1007/s11119-026-10381-2}
+- Advancing site-specific disease and pest management in precision agriculture: From reasoning-driven foundation models to adaptive, feedback-based learning {DOI: 10.1016/j.compag.2026.111859}
+- Leveraging explainable ai for sustainable agriculture: A comprehensive review of recent advances {DOI: 10.1007/s10462-025-11459-5}
+- A review of climate change impact on canola physiology and yield in mediterranean-type climates: Challenges and opportunities for the western cape {DOI: 10.1080/02571862.2026.2651687}
+- Reviewing the evidence on precision agriculture and environmental sustainability {DOI: 10.1038/s44264-026-00128-x}
+- Systematic review of artificial intelligence in precision agriculture for smallholder farmers {DOI: 10.1007/s44282-026-00546-9}
+- Measurement, reporting, and verification of agricultural and livestock emissions: A combined systematic and bibliometric review {DOI: 10.3390/agriengineering8030110}
+- What monitoring, reporting & verification (mrv) systems can reduce costs and enhance scalability of carbon farming? {DOI: 10.1016/j.jenvman.2026.128885}
+- What are the impacts of climate change and biodiversity on food security? a systematic literature review {DOI: 10.1186/s40066-025-00585-6}
+- A digital soil mapping approach to soil carbon monitoring, reporting and verification (mrv) {DOI: 10.1038/s44264-026-00125-0}
+- The economics of precision agriculture (pa) and resource efficiency: Digital technologies for sustainable and profitable farming {DOI: 10.3390/su18157512}
+- Electrochemical sensors revolutionize plant nitrogen monitoring: Real-time, in situ detection for precision agriculture {DOI: 10.1016/j.talanta.2025.128949}
+- Variable rate irrigation through digital agriculture for sustainable water management: A meta review on current challenges and future directions {DOI: 10.1007/s11269-026-04616-0}
+- Role of uavs in precision pesticide spraying and environmental safety by combating pesticide resistance and safety of natural enemies {DOI: 10.1002/ps.70872}
+- Rapeseed seedling counting and geospatial localization system integrating visual tracking and real-time kinematic positioning {DOI: 10.1016/j.indcrop.2025.122540}
+- Sensor-based monitoring of soil and crop health for enhancing input use efficiency {DOI: 10.1007/978-3-030-85728-8_7}
+- Pollination services from field-scale agricultural diversification may be context-dependent {DOI: 10.1016/j.agee.2015.03.020}
+- On the doorstep of the information age: Recent adoption of precision agriculture {DOI: 10.2139/ssrn.2692052}
